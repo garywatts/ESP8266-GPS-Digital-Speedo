@@ -2,6 +2,8 @@
 The following is an ESP8266 Digital Speedo based on the Wemos D1 Mini and its matching 64x48 OLED sheild.
 The tested GPS module was an U-blox NEO 6M part number GY-GPS6MV2.
 
+origional code https://github.com/garywatts/ESP8266-GPS-Digital-Speedo
+
 Required libraries include:
 Adafruit Graphics
 https://github.com/adafruit/Adafruit-GFX-Library
