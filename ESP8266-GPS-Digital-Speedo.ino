@@ -123,7 +123,7 @@ void loop() {
     if (gps_speed < 10) {                           // if to center speed display below 10kph
     display.setCursor(20,26);                       
    }
-   else if (gps_speed > 100) {                      // if to center speed display above 100kph
+   else if (gps_speed > 99) {                      // if to center speed display above 100kph
     display.setCursor(2,26);
    }
    else
